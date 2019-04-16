@@ -1,0 +1,123 @@
+Filename:
+SHA256:
+Optionnal package: ssh-server, python2
+
+[+] SUID/SGID Files and Directories
+    drwxrwsr-x 3 root staff 4096 févr. 14 09:49 /usr/local/lib/python3.6
+    drwxrwsr-x 2 root staff 4096 févr. 14 09:49 /usr/local/lib/python3.6/dist-packages
+    drwxrwsr-x 4 root staff 4096 avril 16 11:02 /usr/local/lib/python2.7
+    drwxrwsr-x 2 root staff 4096 avril 16 11:02 /usr/local/lib/python2.7/dist-packages
+    drwxrwsr-x 2 root staff 4096 avril 16 11:02 /usr/local/lib/python2.7/site-packages
+    -rwsr-xr-- 1 root messagebus 42992 nov.  15  2017 /usr/lib/dbus-1.0/dbus-daemon-launch-helper
+    -rwxr-sr-x 1 root utmp 10232 mars  11  2016 /usr/lib/x86_64-linux-gnu/utempter/utempter
+    -rwsr-xr-x 1 root root 100760 nov.  23 04:49 /usr/lib/x86_64-linux-gnu/lxc/lxc-user-nic
+    -rwsr-xr-x 1 root root 436552 mars   4 12:17 /usr/lib/openssh/ssh-keysign
+    -rwsr-xr-x 1 root root 10232 mars  28  2017 /usr/lib/eject/dmcrypt-get-device
+    -rwsr-sr-x 1 root root 101240 févr.  3 14:20 /usr/lib/snapd/snap-confine
+    -rwsr-xr-x 1 root root 14328 janv. 15 13:18 /usr/lib/policykit-1/polkit-agent-helper-1
+    -rwsr-xr-x 1 root root 18448 mars   9  2017 /usr/bin/traceroute6.iputils
+    -rwsr-xr-x 1 root root 44528 janv. 25  2018 /usr/bin/chsh
+    -rwsr-xr-x 1 root root 76496 janv. 25  2018 /usr/bin/chfn
+    -rwsr-xr-x 1 root root 22520 janv. 15 13:18 /usr/bin/pkexec
+    -rwxr-sr-x 1 root tty 14328 janv. 17  2018 /usr/bin/bsd-write
+    -rwxr-sr-x 1 root crontab 39352 nov.  16  2017 /usr/bin/crontab
+    -rwsr-xr-x 1 root root 40344 janv. 25  2018 /usr/bin/newgrp
+    -rwsr-xr-x 1 root root 37136 janv. 25  2018 /usr/bin/newuidmap
+    -rwsr-xr-x 1 root root 149080 janv. 18  2018 /usr/bin/sudo
+    -rwxr-sr-x 1 root tty 30800 oct.  15 20:29 /usr/bin/wall
+    -rwsr-sr-x 1 daemon daemon 51464 févr. 20  2018 /usr/bin/at
+    -rwxr-sr-x 1 root mlocate 43088 mars   1  2018 /usr/bin/mlocate
+    -rwxr-sr-x 1 root shadow 22808 janv. 25  2018 /usr/bin/expiry
+    -rwsr-xr-x 1 root root 75824 janv. 25  2018 /usr/bin/gpasswd
+    -rwsr-xr-x 1 root root 59640 janv. 25  2018 /usr/bin/passwd
+    -rwxr-sr-x 1 root shadow 71816 janv. 25  2018 /usr/bin/chage
+    -rwxr-sr-x 1 root ssh 362640 mars   4 12:17 /usr/bin/ssh-agent
+    -rwsr-xr-x 1 root root 37136 janv. 25  2018 /usr/bin/newgidmap
+    drwxr-sr-x+ 3 root systemd-journal 4096 avril 16 10:48 /var/log/journal
+    drwxr-sr-x+ 2 root systemd-journal 4096 avril 16 10:59 /var/log/journal/48a51dd085a34680a3c271e7a201fd79
+    drwxrwsr-x 2 root staff 4096 avril 24  2018 /var/local
+    drwxrwsr-x 2 root mail 4096 févr. 14 09:49 /var/mail
+    -rwsr-xr-x 1 root root 40152 mai   16  2018 /snap/core/6350/bin/mount
+    -rwsr-xr-x 1 root root 44168 mai    7  2014 /snap/core/6350/bin/ping
+    -rwsr-xr-x 1 root root 44680 mai    7  2014 /snap/core/6350/bin/ping6
+    -rwsr-xr-x 1 root root 40128 mai   17  2017 /snap/core/6350/bin/su
+    -rwsr-xr-x 1 root root 27608 mai   16  2018 /snap/core/6350/bin/umount
+    drwxr-s--- 2 root dip 54 janv. 29 18:47 /snap/core/6350/etc/chatscripts
+    drwxr-s--- 2 root dip 31 janv. 29 18:47 /snap/core/6350/etc/ppp/peers
+    -rwxr-sr-x 1 root shadow 35632 avril  9  2018 /snap/core/6350/sbin/pam_extrausers_chkpwd
+    -rwxr-sr-x 1 root shadow 35600 avril  9  2018 /snap/core/6350/sbin/unix_chkpwd
+    -rwxr-sr-x 1 root shadow 62336 mai   17  2017 /snap/core/6350/usr/bin/chage
+    -rwsr-xr-x 1 root root 71824 mai   17  2017 /snap/core/6350/usr/bin/chfn
+    -rwsr-xr-x 1 root root 40432 mai   17  2017 /snap/core/6350/usr/bin/chsh
+    -rwxr-sr-x 1 root systemd-network 36080 avril  5  2016 /snap/core/6350/usr/bin/crontab
+    -rwxr-sr-x 1 root mail 14856 déc.   7  2013 /snap/core/6350/usr/bin/dotlockfile
+    -rwxr-sr-x 1 root shadow 22768 mai   17  2017 /snap/core/6350/usr/bin/expiry
+    -rwsr-xr-x 1 root root 75304 mai   17  2017 /snap/core/6350/usr/bin/gpasswd
+    -rwxr-sr-x 3 root mail 14592 déc.   3  2012 /snap/core/6350/usr/bin/mail-lock
+    -rwxr-sr-x 3 root mail 14592 déc.   3  2012 /snap/core/6350/usr/bin/mail-touchlock
+    -rwxr-sr-x 3 root mail 14592 déc.   3  2012 /snap/core/6350/usr/bin/mail-unlock
+    -rwsr-xr-x 1 root root 39904 mai   17  2017 /snap/core/6350/usr/bin/newgrp
+    -rwsr-xr-x 1 root root 54256 mai   17  2017 /snap/core/6350/usr/bin/passwd
+    -rwxr-sr-x 1 root crontab 358624 nov.   5 11:26 /snap/core/6350/usr/bin/ssh-agent
+    -rwsr-xr-x 1 root root 136808 juil.  4  2017 /snap/core/6350/usr/bin/sudo
+    -rwxr-sr-x 1 root tty 27368 mai   16  2018 /snap/core/6350/usr/bin/wall
+    -rwsr-xr-- 1 root systemd-resolve 42992 janv. 12  2017 /snap/core/6350/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+    -rwsr-xr-x 1 root root 428240 nov.   5 11:26 /snap/core/6350/usr/lib/openssh/ssh-keysign
+    -rwsr-sr-x 1 root root 98472 janv. 29 17:55 /snap/core/6350/usr/lib/snapd/snap-confine
+    drwxrwsr-x 3 root staff 36 janv. 29 18:47 /snap/core/6350/usr/local/lib/python3.5
+    drwxrwsr-x 2 root staff 3 janv. 29 18:43 /snap/core/6350/usr/local/lib/python3.5/dist-packages
+    -rwsr-xr-- 1 root dip 394984 juin  12  2018 /snap/core/6350/usr/sbin/pppd
+    drwxrwsr-x 2 root staff 3 avril 12  2016 /snap/core/6350/var/local
+    drwxrwsr-x 2 root mail 3 janv. 29 18:42 /snap/core/6350/var/mail
+    -rwxr-sr-x 1 root shadow 34816 avril  5  2018 /sbin/pam_extrausers_chkpwd
+    -rwxr-sr-x 1 root shadow 34816 avril  5  2018 /sbin/unix_chkpwd
+    -rwsr-xr-x 1 root root 43088 oct.  15 20:29 /bin/mount
+    -rwsr-xr-x 1 root root 64424 mars   9  2017 /bin/ping
+    -rwsr-xr-x 1 root root 26696 oct.  15 20:29 /bin/umount
+    -rwsr-xr-x 1 root root 44664 janv. 25  2018 /bin/su
+    -rwsr-xr-x 1 root root 146128 nov.  30  2017 /bin/ntfs-3g
+    -rwsr-xr-x 1 root root 30800 août  11  2016 /bin/fusermount
+
+[+] Scheduled cron jobs
+    -rw-r--r-- 1 root root  722 nov.  16  2017 /etc/crontab
+    /etc/cron.d:
+    total 20
+    drwxr-xr-x  2 root root 4096 févr. 14 09:51 .
+    drwxr-xr-x 93 root root 4096 avril 16 11:03 ..
+    -rw-r--r--  1 root root  589 juin  26  2018 mdadm
+    -rw-r--r--  1 root root  102 nov.  16  2017 .placeholder
+    -rw-r--r--  1 root root  191 févr. 14 09:51 popularity-contest
+    /etc/cron.daily:
+    total 60
+    drwxr-xr-x  2 root root 4096 févr. 14 09:52 .
+    drwxr-xr-x 93 root root 4096 avril 16 11:03 ..
+    -rwxr-xr-x  1 root root  376 nov.  20  2017 apport
+    -rwxr-xr-x  1 root root 1478 avril 20  2018 apt-compat
+    -rwxr-xr-x  1 root root  355 déc.  29  2017 bsdmainutils
+    -rwxr-xr-x  1 root root 1176 nov.   2  2017 dpkg
+    -rwxr-xr-x  1 root root  372 août  21  2017 logrotate
+    -rwxr-xr-x  1 root root 1065 avril  7  2018 man-db
+    -rwxr-xr-x  1 root root  539 juin  26  2018 mdadm
+    -rwxr-xr-x  1 root root  538 mars   1  2018 mlocate
+    -rwxr-xr-x  1 root root  249 janv. 25  2018 passwd
+    -rw-r--r--  1 root root  102 nov.  16  2017 .placeholder
+    -rwxr-xr-x  1 root root 3477 févr. 21  2018 popularity-contest
+    -rwxr-xr-x  1 root root  246 mars  21  2018 ubuntu-advantage-tools
+    -rwxr-xr-x  1 root root  214 juin  27  2018 update-notifier-common
+    /etc/cron.hourly:
+    total 12
+    drwxr-xr-x  2 root root 4096 févr. 14 09:50 .
+    drwxr-xr-x 93 root root 4096 avril 16 11:03 ..
+    -rw-r--r--  1 root root  102 nov.  16  2017 .placeholder
+    /etc/cron.monthly:
+    total 12
+    drwxr-xr-x  2 root root 4096 févr. 14 09:50 .
+    drwxr-xr-x 93 root root 4096 avril 16 11:03 ..
+    -rw-r--r--  1 root root  102 nov.  16  2017 .placeholder
+    /etc/cron.weekly:
+    total 20
+    drwxr-xr-x  2 root root 4096 févr. 14 09:52 .
+    drwxr-xr-x 93 root root 4096 avril 16 11:03 ..
+    -rwxr-xr-x  1 root root  723 avril  7  2018 man-db
+    -rw-r--r--  1 root root  102 nov.  16  2017 .placeholder
+    -rwxr-xr-x  1 root root  211 juin  27  2018 update-notifier-common
