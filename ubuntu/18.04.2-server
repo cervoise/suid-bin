@@ -1,6 +1,5 @@
-Filename:
-SHA256:
-Optionnal package: ssh-server, python2
+SHA256: ea6ccb5b57813908c006f42f7ac8eaa4fc603883a2d07876cf9ed74610ba2f53  ubuntu-18.04.2-live-server-amd64.iso
+Optionnal packages: ssh-server, python2
 
 [+] SUID/SGID Files and Directories
     drwxrwsr-x 3 root staff 4096 févr. 14 09:49 /usr/local/lib/python3.6
