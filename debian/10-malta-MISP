@@ -1,0 +1,71 @@
+SHA256:
+SHA256: 71afa1965a738cf98836326b3178f19182d8250ecf25babfafec05d180a73087  vmlinux-4.19.0-5-4kc-malta
+
+With popularity contest and openSSH server.
+
+[+] SUID/SGID Files and Directories
+    drwxrwsr-x 4 root staff 4096 Aug 29 12:58 /usr/local/lib/python2.7
+    drwxrwsr-x 2 root staff 4096 Aug 29 12:58 /usr/local/lib/python2.7/site-packages
+    drwxrwsr-x 2 root staff 4096 Aug 29 12:39 /usr/local/lib/python2.7/dist-packages
+    drwxrwsr-x 3 root staff 4096 Aug 29 11:03 /usr/local/lib/python3.7
+    drwxrwsr-x 2 root staff 4096 Aug 29 11:03 /usr/local/lib/python3.7/dist-packages
+    -rwxr-sr-x 1 root shadow 36024 Feb 14  2019 /usr/sbin/unix_chkpwd
+    -rwsr-xr-x 1 root root 10172 Mar 28  2017 /usr/lib/eject/dmcrypt-get-device
+    -rwsr-xr-- 1 root messagebus 43132 Jun  9 16:34 /usr/lib/dbus-1.0/dbus-daemon-launch-helper
+    -rwsr-xr-x 1 root root 481560 Apr  8 06:13 /usr/lib/openssh/ssh-keysign
+    -rwsr-xr-x 1 root root 67100 Jan 10  2019 /usr/bin/su
+    -rwxr-sr-x 1 root mail 19052 Dec  3  2017 /usr/bin/dotlockfile
+    -rwxr-sr-x 1 root tty 32568 Jan 10  2019 /usr/bin/wall
+    -rwxr-sr-x 1 root ssh 346176 Apr  8 06:13 /usr/bin/ssh-agent
+    -rwxr-sr-x 1 root tty 10432 May  4  2018 /usr/bin/bsd-write
+    -rwxr-sr-x 1 root shadow 23812 Jul 27  2018 /usr/bin/expiry
+    -rwsr-xr-x 1 root root 84404 Jul 27  2018 /usr/bin/gpasswd
+    -rwxr-sr-x 1 root crontab 40828 Jun 23 13:49 /usr/bin/crontab
+    -rwsr-xr-x 1 root root 46968 Jul 27  2018 /usr/bin/chsh
+    -rwsr-xr-x 1 root root 49464 Jan 10  2019 /usr/bin/mount
+    -rwxr-sr-x 1 root shadow 70576 Jul 27  2018 /usr/bin/chage
+    -rwsr-xr-x 1 root root 62472 Jul 27  2018 /usr/bin/passwd
+    -rwsr-xr-x 1 root root 41572 Jul 27  2018 /usr/bin/newgrp
+    -rwsr-xr-x 1 root root 27404 Jan 10  2019 /usr/bin/umount
+    -rwsr-xr-x 1 root root 56264 Jul 27  2018 /usr/bin/chfn
+    drwxr-sr-x 3 root systemd-journal 60 Aug 29 14:22 /run/log/journal
+    drwxr-s---+ 2 root systemd-journal 60 Aug 29 14:22 /run/log/journal/9696c6a5c72345a597ed11766d5d0cc3
+    drwxrwsr-x 2 root mail 4096 Aug 29 10:31 /var/mail
+    drwxrwsr-x 2 root staff 4096 May 13 16:25 /var/local
+
+[+] Scheduled cron jobs
+    -rw-r--r-- 1 root root 1042 Jun 23 13:49 /etc/crontab
+    /etc/cron.d:
+    total 16
+    drwxr-xr-x  2 root root 4096 Aug 29 12:07 .
+    drwxr-xr-x 66 root root 4096 Aug 29 14:22 ..
+    -rw-r--r--  1 root root  102 Jun 23 13:49 .placeholder
+    -rw-r--r--  1 root root  191 Aug 29 12:07 popularity-contest
+    /etc/cron.daily:
+    total 44
+    drwxr-xr-x  2 root root 4096 Aug 29 13:05 .
+    drwxr-xr-x 66 root root 4096 Aug 29 14:22 ..
+    -rwxr-xr-x  1 root root 1478 May 28 10:40 apt-compat
+    -rwxr-xr-x  1 root root  355 Dec 29  2017 bsdmainutils
+    -rwxr-xr-x  1 root root 1187 Apr 18 22:14 dpkg
+    -rwxr-xr-x  1 root root  377 Aug 28  2018 logrotate
+    -rwxr-xr-x  1 root root 1123 Feb 10  2019 man-db
+    -rwxr-xr-x  1 root root  249 Sep 27  2017 passwd
+    -rw-r--r--  1 root root  102 Jun 23 13:49 .placeholder
+    -rwxr-xr-x  1 root root 4571 May 20  2018 popularity-contest
+    /etc/cron.hourly:
+    total 12
+    drwxr-xr-x  2 root root 4096 Aug 29 10:47 .
+    drwxr-xr-x 66 root root 4096 Aug 29 14:22 ..
+    -rw-r--r--  1 root root  102 Jun 23 13:49 .placeholder
+    /etc/cron.monthly:
+    total 12
+    drwxr-xr-x  2 root root 4096 Aug 29 10:47 .
+    drwxr-xr-x 66 root root 4096 Aug 29 14:22 ..
+    -rw-r--r--  1 root root  102 Jun 23 13:49 .placeholder
+    /etc/cron.weekly:
+    total 16
+    drwxr-xr-x  2 root root 4096 Aug 29 13:05 .
+    drwxr-xr-x 66 root root 4096 Aug 29 14:22 ..
+    -rwxr-xr-x  1 root root  813 Feb 10  2019 man-db
+    -rw-r--r--  1 root root  102 Jun 23 13:49 .placeholder
