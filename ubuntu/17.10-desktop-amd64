@@ -1,0 +1,96 @@
+SHA256: 1a3d2d32ada795e5df47293745a7479bcb3e4e29d8ee1eaa114350b691cf38d3  ubuntu-17.10-desktop-amd64.iso
+
+[+] SUID/SGID Files and Directories
+    -rwxr-sr-x 1 root shadow 34816 avril 21  2017 /sbin/unix_chkpwd
+    -rwxr-sr-x 1 root shadow 34816 avril 21  2017 /sbin/pam_extrausers_chkpwd
+    drwxrwsr-x 2 root mail 4096 janv.  5  2018 /var/mail
+    drwxrwsrwt 2 root whoopsie 4096 janv.  5  2018 /var/crash
+    drwxrwsr-x 2 root staff 4096 oct.  16  2017 /var/local
+    drwxrwsrwt 2 root whoopsie 4096 janv.  5  2018 /var/metrics
+    -rwsr-xr-- 1 root dip 390888 janv. 29  2016 /usr/sbin/pppd
+    drwxrwsr-t 2 root lpadmin 4096 nov.   8  2017 /usr/share/ppd/custom
+    -rwsr-sr-x 1 root root 10232 oct.  15  2017 /usr/lib/xorg/Xorg.wrap
+    -rwsr-xr-x 1 root root 14328 mai   24  2017 /usr/lib/policykit-1/polkit-agent-helper-1
+    -rwxr-sr-x 1 root mail 14336 oct.   2  2017 /usr/lib/evolution/camel-lock-helper-1.2
+    -rwsr-xr-x 1 root root 10232 mars  28  2017 /usr/lib/eject/dmcrypt-get-device
+    -rwsr-xr-x 1 root root 440656 sept.  1  2017 /usr/lib/openssh/ssh-keysign
+    -rwsr-xr-- 1 root messagebus 43064 juil. 28  2017 /usr/lib/dbus-1.0/dbus-daemon-launch-helper
+    -rwsr-sr-x 1 root root 88632 nov.  30  2017 /usr/lib/snapd/snap-confine
+    drwxrwsr-x 2 root staff 4096 janv.  5  2018 /usr/local/share/fonts
+    drwxrwsr-x 3 root staff 4096 janv.  5  2018 /usr/local/share/emacs
+    drwxrwsr-x 2 root staff 4096 janv.  5  2018 /usr/local/share/emacs/site-lisp
+    drwxrwsr-x 3 root staff 4096 janv.  5  2018 /usr/local/lib/python3.6
+    drwxrwsr-x 2 root staff 4096 janv.  5  2018 /usr/local/lib/python3.6/dist-packages
+    -rwxr-sr-x 1 root crontab 39352 août  21  2017 /usr/bin/crontab
+    -rwsr-xr-x 1 root root 40400 août  21  2017 /usr/bin/chsh
+    -rwsr-xr-x 1 root root 71792 août  21  2017 /usr/bin/chfn
+    -rwxr-sr-x 1 root tty 14400 juil. 27  2017 /usr/bin/bsd-write
+    -rwsr-xr-x 1 root root 22520 mai   24  2017 /usr/bin/pkexec
+    -rwxr-sr-x 1 root mlocate 38992 avril 28  2017 /usr/bin/mlocate
+    -rwxr-sr-x 1 root ssh 362648 sept.  1  2017 /usr/bin/ssh-agent
+    -rwsr-xr-x 1 root root 54224 août  21  2017 /usr/bin/passwd
+    -rwxr-sr-x 1 root tty 30792 août  14  2017 /usr/bin/wall
+    -rwxr-sr-x 1 root shadow 62304 août  21  2017 /usr/bin/chage
+    -rwsr-xr-x 1 root root 145040 juin  12  2017 /usr/bin/sudo
+    -rwsr-xr-x 1 root root 22528 mars   9  2017 /usr/bin/arping
+    -rwsr-xr-x 1 root root 39944 août  21  2017 /usr/bin/newgrp
+    -rwxr-sr-x 1 root shadow 22808 août  21  2017 /usr/bin/expiry
+    -rwsr-xr-x 1 root root 18448 mars   9  2017 /usr/bin/traceroute6.iputils
+    -rwsr-xr-x 1 root root 75344 août  21  2017 /usr/bin/gpasswd
+    drwxr-sr-x 3 root systemd-journal 60 sept.  2 11:22 /run/log/journal
+    drwxr-s---+ 2 root systemd-journal 60 sept.  2 11:22 /run/log/journal/00de8b2f0920409babc600df67f31041
+    drwxr-s--- 2 root dip 4096 janv.  5  2018 /etc/ppp/peers
+    drwxr-s--- 2 root dip 4096 janv.  5  2018 /etc/chatscripts
+    -rwsr-xr-x 1 root root 40168 août  21  2017 /bin/su
+    -rwsr-xr-x 1 root root 34888 août  14  2017 /bin/mount
+    -rwsr-xr-x 1 root root 146128 juin  22  2017 /bin/ntfs-3g
+    -rwsr-xr-x 1 root root 26696 août  14  2017 /bin/umount
+    -rwsr-xr-x 1 root root 64424 mars   9  2017 /bin/ping
+    -rwsr-xr-x 1 root root 30800 août  11  2016 /bin/fusermount
+
+[+] Scheduled cron jobs
+    -rw-r--r-- 1 root root  722 août  21  2017 /etc/crontab
+    /etc/cron.d:
+    total 28
+    drwxr-xr-x   2 root root  4096 janv.  5  2018 .
+    drwxr-xr-x 121 root root 12288 sept.  2 11:09 ..
+    -rw-r--r--   1 root root   285 mai   29  2017 anacron
+    -rw-r--r--   1 root root   102 août  21  2017 .placeholder
+    -rw-r--r--   1 root root   191 sept.  2 11:07 popularity-contest
+    /etc/cron.daily:
+    total 68
+    drwxr-xr-x   2 root root  4096 janv.  5  2018 .
+    drwxr-xr-x 121 root root 12288 sept.  2 11:09 ..
+    -rwxr-xr-x   1 root root   311 mai   29  2017 0anacron
+    -rwxr-xr-x   1 root root   376 oct.  24  2017 apport
+    -rwxr-xr-x   1 root root  1474 sept. 24  2017 apt-compat
+    -rwxr-xr-x   1 root root   355 avril 12  2017 bsdmainutils
+    -rwxr-xr-x   1 root root   384 déc.  12  2012 cracklib-runtime
+    -rwxr-xr-x   1 root root  1597 févr. 22  2017 dpkg
+    -rwxr-xr-x   1 root root   372 août  21  2017 logrotate
+    -rwxr-xr-x   1 root root  1065 déc.  13  2016 man-db
+    -rwxr-xr-x   1 root root   538 avril 28  2017 mlocate
+    -rwxr-xr-x   1 root root   249 nov.  19  2014 passwd
+    -rw-r--r--   1 root root   102 août  21  2017 .placeholder
+    -rwxr-xr-x   1 root root  3449 févr. 26  2016 popularity-contest
+    -rwxr-xr-x   1 root root   214 août  22  2017 update-notifier-common
+    /etc/cron.hourly:
+    total 20
+    drwxr-xr-x   2 root root  4096 janv.  5  2018 .
+    drwxr-xr-x 121 root root 12288 sept.  2 11:09 ..
+    -rw-r--r--   1 root root   102 août  21  2017 .placeholder
+    /etc/cron.monthly:
+    total 24
+    drwxr-xr-x   2 root root  4096 janv.  5  2018 .
+    drwxr-xr-x 121 root root 12288 sept.  2 11:09 ..
+    -rwxr-xr-x   1 root root   313 mai   29  2017 0anacron
+    -rw-r--r--   1 root root   102 août  21  2017 .placeholder
+    /etc/cron.weekly:
+    total 36
+    drwxr-xr-x   2 root root  4096 janv.  5  2018 .
+    drwxr-xr-x 121 root root 12288 sept.  2 11:09 ..
+    -rwxr-xr-x   1 root root   312 mai   29  2017 0anacron
+    -rwxr-xr-x   1 root root    86 août  14  2017 fstrim
+    -rwxr-xr-x   1 root root   723 déc.  13  2016 man-db
+    -rw-r--r--   1 root root   102 août  21  2017 .placeholder
+    -rwxr-xr-x   1 root root   211 août  22  2017 update-notifier-common
