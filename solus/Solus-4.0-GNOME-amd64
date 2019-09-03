@@ -1,0 +1,42 @@
+bd146cccf91269aa9b14a0bd2ba0c1f297ef1615a569782c5d343f716b6c2f87  Solus-4.0-GNOME.iso
+
+[+] SUID/SGID Files and Directories
+    -rwsr-xr-x 1 root root 260800  9 nov.   2018 /bin/passwd
+    -rwsr-xr-x 1 root root 47208 25 févr.  2019 /bin/mount
+    -rwsr-xr-x 1 root root 34912 25 févr.  2019 /bin/umount
+    -rwsr-xr-x 1 root root 182432  9 nov.   2018 /bin/su
+    drwxr-sr-x+ 3 root systemd-journal 4096  2 sept. 22:08 /var/log/journal
+    drwxr-sr-x+ 2 root systemd-journal 4096  2 sept. 22:09 /var/log/journal/8a6ff948937e4c10978cfd2afbf5b70e
+    -rwsr-xr-x 1 root root 139408  9 nov.   2018 /sbin/unix_chkpwd
+    -rwsr-sr-x 1 root root 84376  1 mars   2019 /usr/lib64/snapd/snap-confine
+    -r-sr-x--- 1 root root 79144 29 nov.   2018 /usr/lib64/pppd/2.4.7/pppoatm.so
+    -r-sr-x--- 1 root root 31600 29 nov.   2018 /usr/lib64/pppd/2.4.7/rp-pppoe.so
+    -rwsr-xr-x 1 root root 66848 14 oct.   2018 /usr/lib64/gstreamer-1.0/gstreamer-1.0/gst-ptp-helper
+    -rwsr-x--x 1 root 18 157784 28 oct.   2018 /usr/lib64/dbus-1.0/dbus-daemon-launch-helper
+    -rwsr-xr-x 1 root root 56128  9 nov.   2018 /usr/lib64/polkit-1/polkit-agent-helper-1
+    -rwsr-xr-x 1 root root 38776 17 janv.  2019 /usr/lib64/xorg-server/Xorg.wrap
+    -rwsr-xr-x 1 root root 18820656 17 janv.  2019 /usr/lib64/xorg-server/Xorg
+    -rwsr-xr-x 1 root root 29312 21 oct.   2018 /usr/lib64/xorg-driver-video-intel/xf86-video-intel-backlight-helper
+    -rws--x--x 1 root root 436512 16 févr.  2019 /usr/lib64/openssh/ssh-keysign
+    -rwsr-xr-x 1 root root 173680  9 nov.   2018 /usr/bin/newuidmap
+    -rwsr-xr-x 1 root root 187424  9 nov.   2018 /usr/bin/newgrp
+    -rwsr-xr-x 1 root root 177288  9 nov.   2018 /usr/bin/newgidmap
+    -rwsr-xr-x 1 root root 245096 16 mars   2018 /usr/bin/rsh
+    -rwsr-xr-x 1 root root 585488 16 janv.  2019 /usr/bin/sudo
+    -rwsr-xr-x 1 root root 154304  4 janv.  2019 /usr/bin/fusermount
+    -rwsr-xr-x 1 root root 369128 16 mars   2018 /usr/bin/ping
+    -rwsr-xr-x 1 root root 240512 24 déc.   2018 /usr/bin/ksu
+    -rwsr-xr-x 1 root root 346616  9 nov.   2018 /usr/bin/gpasswd
+    -rwxr-sr-x 1 root tty 34920 25 févr.  2019 /usr/bin/wall
+    -rwsr-xr-x 1 root root 285960 16 mars   2018 /usr/bin/rcp
+    -rwsr-xr-x 1 root root 111744  9 nov.   2018 /usr/bin/expiry
+    -rwsr-xr-x 1 root root 90952  9 nov.   2018 /usr/bin/pkexec
+    -rwsr-xr-x 1 root root 263160 16 mars   2018 /usr/bin/rlogin
+    -rwsr-xr-x 1 root root 233432  9 nov.   2018 /usr/bin/chfn
+    -rwsr-xr-x 1 root root 194320  9 nov.   2018 /usr/bin/chsh
+    -rwsr-xr-x 1 root root 272952 16 mars   2018 /usr/bin/traceroute
+    -rwsr-xr-x 1 root root 224320 18 oct.   2018 /usr/bin/bwrap
+    -rwsr-xr-x 1 root root 302008 16 mars   2018 /usr/bin/ping6
+    -rwsr-xr-x 1 root root 279016  9 nov.   2018 /usr/bin/chage
+
+[+] Scheduled cron jobs : no crontab by default
