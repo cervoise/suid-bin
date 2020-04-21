@@ -275,3 +275,51 @@ SHA256: bcc02554c37d438545658be7964e1bc05bdb11289ae16bfbf94626b80d42656f  ubuntu
     -rwsr-xr-x 1 root root 30800 mai   15  2015 /bin/fusermount
     -rwsr-xr-x 1 root root 44680 mai    7  2014 /bin/ping6
     -rwsr-xr-x 1 root root 69120 nov.  23  2016 /bin/umount
+
+[+] Scheduled cron jobs
+    -rw-r--r-- 1 root root  722 févr.  9  2013 /etc/crontab
+    /etc/cron.d:
+    total 24
+    drwxr-xr-x   2 root root  4096 mars   5  2019 .
+    drwxr-xr-x 128 root root 12288 avril 21 15:32 ..
+    -rw-r--r--   1 root root   188 févr. 20  2014 anacron
+    -rw-r--r--   1 root root   102 févr.  9  2013 .placeholder
+    /etc/cron.daily:
+    total 84
+    drwxr-xr-x   2 root root  4096 mars   5  2019 .
+    drwxr-xr-x 128 root root 12288 avril 21 15:32 ..
+    -rwxr-xr-x   1 root root   311 févr. 20  2014 0anacron
+    -rwxr-xr-x   1 root root   376 avril  4  2014 apport
+    -rwxr-xr-x   1 root root 15481 avril 10  2014 apt
+    -rwxr-xr-x   1 root root   355 juin   4  2013 bsdmainutils
+    -rwxr-xr-x   1 root root   384 mars  23  2014 cracklib-runtime
+    -rwxr-xr-x   1 root root   256 mars   7  2014 dpkg
+    -rwxr-xr-x   1 root root   372 janv. 22  2014 logrotate
+    -rwxr-xr-x   1 root root  1261 sept. 23  2014 man-db
+    -rwxr-xr-x   1 root root   435 juin  20  2013 mlocate
+    -rwxr-xr-x   1 root root   249 févr. 17  2014 passwd
+    -rw-r--r--   1 root root   102 févr.  9  2013 .placeholder
+    -rwxr-xr-x   1 root root  2417 mai   13  2013 popularity-contest
+    -rwxr-xr-x   1 root root   214 mars  28  2017 update-notifier-common
+    -rwxr-xr-x   1 root root   328 juil. 18  2014 upstart
+    /etc/cron.hourly:
+    total 20
+    drwxr-xr-x   2 root root  4096 mars   5  2019 .
+    drwxr-xr-x 128 root root 12288 avril 21 15:32 ..
+    -rw-r--r--   1 root root   102 févr.  9  2013 .placeholder
+    /etc/cron.monthly:
+    total 24
+    drwxr-xr-x   2 root root  4096 mars   5  2019 .
+    drwxr-xr-x 128 root root 12288 avril 21 15:32 ..
+    -rwxr-xr-x   1 root root   313 févr. 20  2014 0anacron
+    -rw-r--r--   1 root root   102 févr.  9  2013 .placeholder
+    /etc/cron.weekly:
+    total 40
+    drwxr-xr-x   2 root root  4096 mars   5  2019 .
+    drwxr-xr-x 128 root root 12288 avril 21 15:32 ..
+    -rwxr-xr-x   1 root root   312 févr. 20  2014 0anacron
+    -rwxr-xr-x   1 root root   730 févr. 23  2014 apt-xapian-index
+    -rwxr-xr-x   1 root root   427 avril 16  2014 fstrim
+    -rwxr-xr-x   1 root root   771 sept. 23  2014 man-db
+    -rw-r--r--   1 root root   102 févr.  9  2013 .placeholder
+    -rwxr-xr-x   1 root root   211 mars  28  2017 update-notifier-common
